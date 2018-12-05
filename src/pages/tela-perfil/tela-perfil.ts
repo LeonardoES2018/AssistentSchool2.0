@@ -25,8 +25,6 @@ export class TelaPerfilPage {
     console.log('ionViewDidLoad TelaPerfilPage');
   }
 
-  isTelaInicial(teste){
-      var tela = teste;
   isTelaInicial(teste) {
      /* var tela = teste;
       console.log(tela);
